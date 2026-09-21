@@ -1,0 +1,8 @@
+with open("kora.wav", "rb") as f:
+    data = f.read()
+
+# appliquer XOR avec 0x5B
+decoded = bytes([b ^ 0x5B for b in data])
+
+# afficher en texte
+print(decoded)

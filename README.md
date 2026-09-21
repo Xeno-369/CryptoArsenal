@@ -136,9 +136,8 @@ pour ne plus jamais repartir d'une feuille blanche en pleine compétition.
 ## 👤 Auteur
 
 **Xeno** ([@Xeno-369](https://github.com/Xeno-369)) — étudiant en
-cybersécurité, IAI-Togo. Écrit et maintenu au fil des CTF (Cyberini,
+Computer Science, IAI-Togo. Écrit et maintenu au fil des CTF (Cyberini,
 Root-Me, TryHackMe, ESIG Tech Arena, CTFtime).
-
 Contributions bienvenues — PR ou issue si tu as une variante d'attaque
 qui manque encore à l'arsenal.
 
